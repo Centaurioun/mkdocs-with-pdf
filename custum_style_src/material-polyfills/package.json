@@ -35,7 +35,7 @@
     "postcss-inline-svg": "4.1.0",
     "postcss-loader": "^6.1.1",
     "postcss-svgo": "^4.0.3",
-    "preact": "^10.5.14",
+    "preact": "^10.11.3",
     "prettier": "^2.3.2",
     "rimraf": "^3.0.2",
     "sass": "^1.35.1",
