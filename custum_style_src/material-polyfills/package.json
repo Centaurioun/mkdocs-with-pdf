@@ -20,7 +20,7 @@
   "devDependencies": {
     "@mdi/svg": "^5.9.55",
     "@types/mini-css-extract-plugin": "^2.0.0",
-    "@types/node": "^16.0.0",
+    "@types/node": "^18.11.9",
     "autoprefixer": "^10.2.6",
     "bl": ">=5.0.0",
     "css-loader": "^5.2.6",
